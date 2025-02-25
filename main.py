@@ -19,7 +19,7 @@ SAMPLE_RATE = 24000    # 24kHz采样率
 CHANNELS = 1           # 单通道
 FRAME_MS = 60          # 60ms帧长
 CHUNK = SAMPLE_RATE * FRAME_MS // 1000  # 1440采样点
-WS_URL = "ws://192.168.6.128:8000/v1"
+WS_URL = "ws://127.0.0.1:8000/v1"
 MAX_QUEUE_SIZE = 30    # 音频队列最大长度
 
 # 日志配置
