@@ -1,7 +1,7 @@
 """
 WebSocket双向OPUS音频传输系统
 环境要求：Python 3.7+
-依赖库：websocket-client, opuslib, pyaudio, sounddevice
+依赖库：websocket-client, opuslib, pyaudio
 """
 import websocket
 import opuslib
