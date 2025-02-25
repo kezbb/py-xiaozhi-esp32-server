@@ -20,7 +20,7 @@ py-xiaozhi-esp32-server 是一个使用 Python 实现的小智语音客户端，
 ### Windows 环境
 1. 克隆项目
 ```bash
-git clone [https://github.com/Huang-junsen/py-xiaozhi.git](https://github.com/kezbb/py-xiaozhi-esp32-server.git)
+git clone https://github.com/kezbb/py-xiaozhi-esp32-server.git
 cd py-xiaozhi-esp32-server
 ```
 
